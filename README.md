@@ -1,6 +1,6 @@
 ## SPACE WEATHER ANALYZING AI ENGINEER
 
-![FRONT](https://user-images.githubusercontent.com/87653966/128450987-f900ff13-67f6-4596-834b-56a6a53b37f2.PNG)
+![FRONT](https://user-images.githubusercontent.com/87653966/128451047-2b4cb1a3-ff70-42d8-ae2e-2d439f918551.PNG)
 
 <!--
 **YUNBLAK/yunblak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
