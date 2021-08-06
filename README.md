@@ -1,5 +1,5 @@
 ## SPACE WEATHER ANALYZING AI ENGINEER
-
+### State University of New York at Stony Brook
 <!--
 **YUNBLAK/yunblak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
