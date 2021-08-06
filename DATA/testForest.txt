@@ -1,0 +1,169 @@
+# TEST TOOL FOR DATA ANALYZING
+
+import csv
+import pandas as pd
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import joblib
+%matplotlib inline
+
+from sklearn import datasets
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.model_selection import cross_val_score
+from sklearn import metrics
+
+def graph_compare(y_test, x_test, forest):
+    #compare Answer Predict
+    amountofData = 100
+    answer = pd.DataFrame((y_test[:amountofData]).reset_index())
+    del answer["index"]
+    plt.rcParams["figure.figsize"] = (15,8)
+    plt.plot(answer, label="answer")
+    plt.plot(forest.predict(x_test[:amountofData]), label="predict", alpha = 0.5)
+    a = list(map(int, range(answer.__len__())))
+    plt.xlabel("Answer/Predict")
+    #plt.ylabel("Features")
+    plt.scatter(a,forest.predict(x_test[:amountofData]), alpha = 0.5)
+    plt.legend()
+    plt.show()
+    
+def graph_importance(x, forest):
+    #Features Importance
+    colors = ['black','dimgray','dimgrey','darkgray','silver','lightgrey']
+    n_features = x.shape[1]
+    #plt.subplot(2, 1, 2)
+    plt.rcParams["figure.figsize"] = (15,8)
+    plt.barh(np.arange(n_features), sorted(forest.feature_importances_), align="center", height = 0.5, color = colors)
+    plt.yticks(np.arange(n_features), x.columns)
+    plt.xlabel("Random Forest Feature Importance")
+    plt.ylabel("Features")
+    plt.ylim(-1, n_features)
+    plt.show()
+
+def graph_compare_AP(y_test, x_test, forest):
+    #compare Answer Predict
+    amountofData = 100
+    answer = pd.DataFrame((y_test[:amountofData]).reset_index())
+    del answer["index"]
+    
+    plt.figure(figsize=(15,5))
+    
+    plt.subplot(1,2,1)
+    #plt.rcParams["figure.figsize"] = (15,6)
+    plt.plot(answer, label="answer")
+    plt.xlabel("Answer")
+    
+    plt.subplot(1,2,2)
+    #plt.rcParams["figure.figsize"] = (15,6)
+    plt.plot(forest.predict(x_test[:amountofData]), label="predict", alpha = 0.5)
+    plt.xlabel("Predict")
+    #plt.ylabel("Features")
+    #plt.scatter(a,forest.predict(x_test[:amountofData]), alpha = 0.5)
+    plt.legend()
+    plt.show()
+
+def main():
+    
+    """
+    filename = input("Enter File Name for Analyzing Data :")
+    if '.csv' in filename:
+        pass
+    else:
+        filename = filename + '.csv'
+    while True:
+        try:
+            new_data = pd.read_csv(filename, encoding='cp949')
+            break
+        except FileNotFoundError:
+            print("FILE NOT FOUND!")
+            filename = input("Enter File Name for Analyzing :")
+            if '.csv' in filename:
+                pass
+            else:
+                filename = filename + '.csv'
+    """
+    
+    filename = 'RESULT.csv'
+    
+    new_data = pd.read_csv(filename, encoding='cp949')            
+    print("FILE Finding -------------------- [COMPLETED]")
+    new_data = new_data.fillna(0)
+    print("NaN DATA CONVERTED TO 0 --------- [COMPLETED]")
+    data_features = new_data.columns 
+    print("FINDING DATA FEATURES ----------- [COMPLETED]")
+    print("---------------------------------------------")
+
+    for i in range(0, len(data_features)):
+        print("  Feature",i, ':',data_features[i])
+    print("---------------------------------------------")
+    #feature_size = (int)(input("ENTER SIZE OF FEATURES FOR LEARNING:"))
+    feature_size = 7
+    features = []
+
+    """
+    for i in range(0, feature_size):
+        feat = input("ENTER FEATURE: ")
+        feature.append(feat)
+
+    resultfeat = input("ENTER RESULT FEATURE:")
+    test_size = (float)(input("ENTER TEST SIZE:"))
+    """
+
+    features = ['TEMP', 'WIND', 'RAIN', 'WHUMID', 'PRES', 'GROTEMP', 'TEMP30']
+    resultfeat = 'HUMID'
+    testsize = 0.3
+
+    x = new_data[features]
+    y = new_data[resultfeat]
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=testsize)
+
+    """
+    nestimators = (int)(input("ENTER N_ESTIMATORS:"))
+    randomstate = (int)(input("ENTER RANDOM STATE:"))
+    """
+    nestimators = 100
+    randomstate = 800
+    maxFeat = len(features)
+
+    forest = RandomForestRegressor(n_estimators=nestimators, max_features=maxFeat,random_state=randomstate)
+    forest.fit(x_train, y_train)
+    y_pred = forest.predict(x_test)
+
+    print("RANDOM FOREST MODEL LEARNING ---- [COMPLETED]")
+    print("Model Accuracy: ",abs((int)(forest.score(x_test,y_test) * 100)), "%")
+    
+    graph_compare(y_test, x_test, forest)
+    graph_importance(x, forest)
+    #graph_compare_AP(y_test, x_test, forest)
+
+######################################################
+######################################################
+######################################################
+
+file3 = 'test' + dateconvert(2) + '.txt'
+    
+    f = open(file3, 'r')
+    lines = f.readlines()
+    for line in lines:
+        if "#" in line or ":" in line:
+            pass
+        else:
+            line = line.strip()
+            line = ' '.join(line.split())
+            date.append(str(line.split(' ')[1])+str(line.split(' ')[2])+str(line.split(' ')[3]))
+            pluton_plux10Num.append(line.split(' ')[6])
+            pluton_plux10.append(float(line.split(' ')[7]))
+            pluton_plux30Num.append(line.split(' ')[8])
+            pluton_plux30.append(line.split(' ')[9])
+    f.close()
+    print('DONE -- 1')
+
+    dict = {'date': date, 'PL10NUM': pluton_plux10Num, 'PL10': pluton_plux10}  
+    df = pd.DataFrame(dict)
+    
+    endname = dateconvert(0) + '.csv'
+    df.to_csv(endname, index = False) 
