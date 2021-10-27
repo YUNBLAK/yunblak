@@ -3,6 +3,7 @@
 ![LOGO](https://user-images.githubusercontent.com/87653966/139010876-de869eda-f25b-4d06-82f0-6e03d6ea7e1a.PNG)
 
 ### DANIEL J. YUN
+- Email: daniel.juyyun@gmail.com
 - Stony Brook University (State University of New York)
 - Computer Science Major with AI Specialization
 - AI and Deep Learning Engineer for the Republic of Korea Air Force (2020.08 ~)
