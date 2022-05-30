@@ -3,11 +3,10 @@
 ![LOGO](https://user-images.githubusercontent.com/87653966/139010876-de869eda-f25b-4d06-82f0-6e03d6ea7e1a.PNG)
 
 ### DANIEL J. YUN
-- Class in Air Force: Sergeant
 - Email: daniel.juyyun@gmail.com
 - Stony Brook University (State University of New York)
-- BS. Computer Science Major with AI Specialization
-- AI and Deep Learning Engineer for the Republic of Korea Air Force (2021.07 ~ ING)
+- BS. Computer Science Major with AI Specialization (2018 - 2023)
+- AI and Deep Learning Engineer for the Republic of Korea Air Force (2021.07 - 2022.05)
 - Parallel Computing Engineer for the Republic of Korea Air Force (2020.08 ~ 2021.06)
 - Machine Learning Engineer for NINEWATT (2019.12 ~ 2020.06)
 - Software Engineer for COINDAC (2018.12 ~ 2018.04)
