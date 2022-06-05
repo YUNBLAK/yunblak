@@ -6,7 +6,7 @@
 - Email: daniel.juyyun@gmail.com
 - Stony Brook University (State University of New York)
 - BS. Computer Science Major with AI Specialization (2018 - 2023)
-- Deep Learning Research Assistance at Stony Brook University
+- Deep Learning Research Assistance at Stony Brook University (2022.05 - ING)
 - Deep Learning Engineer for the Dept of Space Weather and Defense at Air Force (2020.08 - 2022.05)
 - Machine Learning Engineer for NINEWATT (2019.12 ~ 2020.06)
 - Software Engineer for COINDAC (2018.12 ~ 2018.04)
