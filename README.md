@@ -6,8 +6,8 @@
 - Email: daniel.juyyun@gmail.com
 - Stony Brook University (State University of New York)
 - BS. Computer Science Major with AI Specialization (2018 - 2023)
-- AI and Deep Learning Engineer for the Republic of Korea Air Force (2021.07 - 2022.05)
-- Parallel Computing Engineer for the Republic of Korea Air Force (2020.08 ~ 2021.06)
+- Deep Learning Research Assistance at Stony Brook University
+- Deep Learning Engineer for the Dept of Space Weather and Defense at Air Force (2020.08 - 2022.05)
 - Machine Learning Engineer for NINEWATT (2019.12 ~ 2020.06)
 - Software Engineer for COINDAC (2018.12 ~ 2018.04)
 
