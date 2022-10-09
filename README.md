@@ -15,7 +15,6 @@
 ###
 ###
 
-![CHq](https://user-images.githubusercontent.com/87653966/172048475-1f7cc2c9-09c1-42e7-9541-b3a41363f06f.png)
 
 ![SDO](https://user-images.githubusercontent.com/87653966/139011300-dd225b66-379e-438d-9cf6-18db04939286.PNG)
 
