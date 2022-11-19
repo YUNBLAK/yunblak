@@ -8,6 +8,13 @@
 - BS. Computer Science Major with AI Specialization (2018 - 2023) - 1st Major
 - BS. Applied Mathematics and Statistics (2018 - 2023) - 2nd Major 
 - BS. Mathematics (2018 - 2023) - 1st Minor 
+###
+### Interests
+- Neural Network Optimization, Convolutional Neural Network, Neural Network Optimizer, Artificial Intelligence
+- Deep Learning based on Neural Network, Image Classification, Image Detection.
+
+###
+### Work Experiences
 - Deep Learning Research Assistance at Stony Brook University (2022.05 - ING)
 - Deep Learning Engineer for the Dept of Space Weather and Defense at Air Force (2020.08 - 2022.05)
 - Machine Learning Engineer for NINEWATT (2019.12 ~ 2020.06)
