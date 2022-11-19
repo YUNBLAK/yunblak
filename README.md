@@ -14,7 +14,11 @@
 - Software Engineer for COINDAC (2018.12 ~ 2018.04)
 
 ###
-###
+### Advisory Position
+- Deep Learning Engineering Advisor at a Government Startup University Program
+- Machine Learning Engineering Advisor at Venture Training Program
+- Teaching Assistant at POSTECH CEO Program
+
 ###
 
 
