@@ -8,7 +8,7 @@
 - Stony Brook University (State University of New York)
 - BS. Computer Science Major with AI Specialization (2018 - 2023) - 1st Major
 - BS. Applied Mathematics and Statistics (2018 - 2023) - 2nd Major 
-- BS. Mathematics (2018 - 2023) - 1st Minor 
+- BA. Mathematics (2018 - 2023) - 1st Minor 
 ###
 ### Interests
 - Neural Network Optimization, Convolutional Neural Network, Neural Network Optimizer, Artificial Intelligence
