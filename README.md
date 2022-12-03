@@ -10,10 +10,15 @@
 - BS. Computer Science Major with AI Specialization (2018 - 2023) - 1st Major
 - BS. Applied Mathematics and Statistics (2018 - 2023) - 2nd Major 
 - BA. Mathematics (2018 - 2023) - 1st Minor 
+
+<br>
+
 ###
 ### Interests
 - Neural Network Optimization, Convolutional Neural Network, Neural Network Optimizer, Artificial Intelligence
 - Deep Learning based on Neural Network, Image Classification, Image Detection.
+
+<br>
 
 ###
 ### Work Experiences
@@ -22,15 +27,20 @@
 - Machine Learning Engineer for NINEWATT (2019.12 ~ 2020.06)
 - Software Engineer for COINDAC (2018.12 ~ 2018.04)
 
+<br>
+
 ###
 ### Advisory Position
 - Deep Learning Engineering Advisor at a Government Startup University Program
 - Machine Learning Engineering Advisor at Venture Training Program
 - Teaching Assistant at POSTECH CEO Program
-   
 
-###
-###
+     
+<br>     
+<br>
+###   
+###   
+###   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunblak&layout=compact&theme=tokyonight)](https://github.com/yunblak/github-readme-stats)
 
 
