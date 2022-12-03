@@ -1,6 +1,6 @@
 ## DEEP LEARNING ENGINEER
 
-![LOGO](https://user-images.githubusercontent.com/87653966/139010876-de869eda-f25b-4d06-82f0-6e03d6ea7e1a.PNG)
+![NN](https://user-images.githubusercontent.com/87653966/205438513-f7d613dc-a8f0-4bec-9f92-285560e0e5db.png)
 
 ### DANIEL J. YUN
 - Email: daniel.juyyun@gmail.com
@@ -27,10 +27,7 @@
 - Deep Learning Engineering Advisor at a Government Startup University Program
 - Machine Learning Engineering Advisor at Venture Training Program
 - Teaching Assistant at POSTECH CEO Program
-
-###
-![SDO](https://user-images.githubusercontent.com/87653966/139011300-dd225b66-379e-438d-9cf6-18db04939286.PNG)
-    
+   
 
 ###
 ###
