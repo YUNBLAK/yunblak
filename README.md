@@ -15,8 +15,8 @@
 
 ###
 ### Interests
-- Neural Network Optimization, Convolutional Neural Network, Neural Network Optimizer, Artificial Intelligence
-- Deep Learning based on Neural Network, Image Classification, Image Detection.
+- Neural Network Optimization, Convolutional Neural Network, Neural Network Optimizer
+- Image Classification, Image Detection, Computer Vision.
 - Machine Learning, Time-Series Prediction.
 - Space Weather
 
@@ -41,6 +41,17 @@
 - Teaching Assistant at Stony Brook University (08.2019 - 12.2019)
 - Teaching Assistant at POSTECH CEO Program (01.2019)
 
+<br>
+
+###
+### Awards
+- Microsoft HackerGround Hackathon 2023, Excellence Awards (4th/134s)
+- Stony Brook University SUNY Korea Campus Hackathon 2023, Winner (1st)
+- SMART CITY IDEA CONTEST 2021, Korea Government, Excellence Awards
+- COSMOS HackAtom 2019, Individual MVP Award 
+- PATHHACK Hackathon 2019 Busan, Winner (1st/50)
+- Global Applied Game Jam 2018 Utrecht School of the Arts, Excellence Award (2nd/130)
+- Global Applied Game Jam 2018 Utrecht School of the Arts, Most Popular Award (2nd/130)
      
 <br>     
 <br>
