@@ -17,6 +17,8 @@
 ### Interests
 - Neural Network Optimization, Convolutional Neural Network, Neural Network Optimizer, Artificial Intelligence
 - Deep Learning based on Neural Network, Image Classification, Image Detection.
+- Machine Learning, Time-Series Prediction.
+- Space Weather
 
 <br>
 
@@ -31,9 +33,13 @@
 
 ###
 ### Advisory Position
-- Deep Learning Engineering Advisor at a Government Startup University Program
-- Machine Learning Engineering Advisor at Venture Training Program
-- Teaching Assistant at POSTECH CEO Program
+- Korea Government's AI Education Project Lecturer, Republic of Korea (06.2023 - ING)
+- Deep Learning Engineering Advisor at a Government Startup University Program (05.2022 - 08.2022)
+- Machine Learning Engineering Advisor at Venture Training Program (05.2022 - 08.2022)
+- Teaching Assistant at Stony Brook University (02.2020 - 06.2020)
+- Teaching Assistant at POSTECH CEO Program (01.2020)
+- Teaching Assistant at Stony Brook University (08.2019 - 12.2019)
+- Teaching Assistant at POSTECH CEO Program (01.2019)
 
      
 <br>     
