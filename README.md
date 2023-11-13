@@ -4,7 +4,7 @@
 
 ### DANIEL J. YUN (Juyoung Yun) [Plan](https://github.com/YUNBLAK/PLAN)
 - Email: daniel.juyyun@gmail.com
-- Web: [Link](www.worldwidedaniel.com/)
+- Web: [Link]([www.worldwidedaniel.com/](http://www.worldwidedaniel.com/main/intro))
 - Info: [Link](www.worldwidedaniel.com/etc/404)
 - Stony Brook University (State University of New York)
 - BS. Computer Science Major with AI Specialization (2018 - 2023) - 1st Major
