@@ -1,12 +1,6 @@
 ## DEEP LEARNING ENGINEER
 
 ![NN](https://user-images.githubusercontent.com/87653966/205438513-f7d613dc-a8f0-4bec-9f92-285560e0e5db.png)
-
-### DANIEL J. YUN (Juyoung Yun) [Plan](https://github.com/YUNBLAK/PLAN)
-- Email: daniel.juyyun@gmail.com
-- Web: [Link]([www.worldwidedaniel.com/](http://www.worldwidedaniel.com/main/intro))
-- Info: [Link](www.worldwidedaniel.com/etc/404)
-- Stony Brook University (State University of New York)
 - BS. Computer Science Major with AI Specialization (2018 - 2023) - 1st Major
 - BS. Applied Mathematics and Statistics (2018 - 2023) - 2nd Major 
 - BA. Mathematics (2018 - 2023) - 1st Minor 
